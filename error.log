@@ -1,1 +1,5 @@
 {"level":"error","message":"Cannot divide by zero","service":"calculator-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculator-service"}
+{"level":"error","message":"${operationName} error: ${error.message}","service":"calculator-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"calculator-service"}
+{"level":"error","message":"${operationName} error: ${error.message}","service":"calculator-service"}
